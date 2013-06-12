@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/537/trunk/demo/smime.howto
+END
+signer.pem
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/signer.pem
+END
+encrypt.p7
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/encrypt.p7
+END
+recipient_key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/recipient_key.pem
+END
+sendsmime.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/sendsmime.py
+END
+encrypt.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/encrypt.py
+END
+signer_key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/signer_key.pem
+END
+sign.p7
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/sign.p7
+END
+sign.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/sign.py
+END
+verify.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/verify.py
+END
+se.p7
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/se.p7
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/README
+END
+se.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/se.py
+END
+dv.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/dv.py
+END
+decrypt.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/383/trunk/demo/smime.howto/decrypt.py
+END
+recipient.pem
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/m2crypto/!svn/ver/146/trunk/demo/smime.howto/recipient.pem
+END

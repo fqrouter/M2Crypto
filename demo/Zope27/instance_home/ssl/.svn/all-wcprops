@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/537/trunk/demo/Zope27/instance_home/ssl
+END
+dh1024.pem
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/m2crypto/!svn/ver/318/trunk/demo/Zope27/instance_home/ssl/dh1024.pem
+END
+ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/m2crypto/!svn/ver/318/trunk/demo/Zope27/instance_home/ssl/ca.pem
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/m2crypto/!svn/ver/318/trunk/demo/Zope27/instance_home/ssl/server.pem
+END

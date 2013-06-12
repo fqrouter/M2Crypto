@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 94
+build
+.project
+.settings
+dist
+*.diff
+.pydevproject
+M2Crypto.egg-info
+*.pyc
+*.pyo
+randpool.dat
+
+END

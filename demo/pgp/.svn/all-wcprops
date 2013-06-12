@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/m2crypto/!svn/ver/630/trunk/demo/pgp
+END
+pgpstep.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/383/trunk/demo/pgp/pgpstep.py
+END
+pubring.pgp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/145/trunk/demo/pgp/pubring.pgp
+END
+secring.pgp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/145/trunk/demo/pgp/secring.pgp
+END

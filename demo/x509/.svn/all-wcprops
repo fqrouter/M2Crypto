@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/m2crypto/!svn/ver/618/trunk/demo/x509
+END
+ca.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/m2crypto/!svn/ver/618/trunk/demo/x509/ca.py
+END
+proxy_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/444/trunk/demo/x509/proxy_init.py
+END
+demo1.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/383/trunk/demo/x509/demo1.py
+END
+x509auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/351/trunk/demo/x509/x509auth.py
+END
+proxylib.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/471/trunk/demo/x509/proxylib.py
+END
+client2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/146/trunk/demo/x509/client2.pem
+END
+proxy_destroy.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/m2crypto/!svn/ver/444/trunk/demo/x509/proxy_destroy.py
+END
+certdata2pem.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/580/trunk/demo/x509/certdata2pem.py
+END
+proxy_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/444/trunk/demo/x509/proxy_info.py
+END
+server-expired.pem
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/m2crypto/!svn/ver/174/trunk/demo/x509/server-expired.pem
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/174/trunk/demo/x509/server.pem
+END

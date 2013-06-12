@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/679/trunk/M2Crypto/PGP
+END
+RSA.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/679/trunk/M2Crypto/PGP/RSA.py
+END
+PublicKey.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/679/trunk/M2Crypto/PGP/PublicKey.py
+END
+PublicKeyRing.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/679/trunk/M2Crypto/PGP/PublicKeyRing.py
+END
+packet.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/679/trunk/M2Crypto/PGP/packet.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/383/trunk/M2Crypto/PGP/constants.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/383/trunk/M2Crypto/PGP/__init__.py
+END

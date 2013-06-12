@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/m2crypto/!svn/ver/537/trunk/demo/pkcs7
+END
+pkcs7-thawte.pem
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/145/trunk/demo/pkcs7/pkcs7-thawte.pem
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/145/trunk/demo/pkcs7/test.py
+END

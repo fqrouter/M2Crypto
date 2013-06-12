@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/m2crypto/!svn/ver/537/trunk/demo/Zope
+END
+dh1024.pem
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/142/trunk/demo/Zope/dh1024.pem
+END
+ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/178/trunk/demo/Zope/ca.pem
+END
+starts.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/161/trunk/demo/Zope/starts.bat
+END
+z2s.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/203/trunk/demo/Zope/z2s.py
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/174/trunk/demo/Zope/server.pem
+END
+z2s.py.diff
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/193/trunk/demo/Zope/z2s.py.diff
+END
+starts
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/147/trunk/demo/Zope/starts
+END

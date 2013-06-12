@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/m2crypto/!svn/ver/537/trunk/demo/Zope/lib/python/Products/ZSmime
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/m2crypto/!svn/ver/92/trunk/demo/Zope/lib/python/Products/ZSmime/version.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/m2crypto/!svn/ver/383/trunk/demo/Zope/lib/python/Products/ZSmime/__init__.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/m2crypto/!svn/ver/299/trunk/demo/Zope/lib/python/Products/ZSmime/README.txt
+END
+SmimeTag.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/m2crypto/!svn/ver/383/trunk/demo/Zope/lib/python/Products/ZSmime/SmimeTag.py
+END

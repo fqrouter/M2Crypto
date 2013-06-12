@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/m2crypto/!svn/ver/646/trunk/doc
+END
+howto.smime.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/646/trunk/doc/howto.smime.html
+END
+ZServerSSL-HOWTO.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/584/trunk/doc/ZServerSSL-HOWTO.html
+END
+howto.ssl.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/632/trunk/doc/howto.ssl.html
+END
+howto.ca.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/584/trunk/doc/howto.ca.html
+END

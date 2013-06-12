@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/m2crypto/!svn/ver/537/trunk/demo/smime
+END
+client2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/145/trunk/demo/smime/client2.pem
+END
+ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/178/trunk/demo/smime/ca.pem
+END
+unsmime.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/383/trunk/demo/smime/unsmime.py
+END
+ns.p7
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/145/trunk/demo/smime/ns.p7
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/383/trunk/demo/smime/test.py
+END
+m2.se.p7
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/145/trunk/demo/smime/m2.se.p7
+END
+clear.p7
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/145/trunk/demo/smime/clear.p7
+END
+ns.se.p7
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/145/trunk/demo/smime/ns.se.p7
+END
+sendsmime.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/383/trunk/demo/smime/sendsmime.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/145/trunk/demo/smime/README
+END
+client.pem
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/145/trunk/demo/smime/client.pem
+END
+client.p12
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/145/trunk/demo/smime/client.p12
+END
+opaque.p7
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/145/trunk/demo/smime/opaque.p7
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/m2crypto/!svn/ver/537/trunk/demo/ZopeX3/install_dir/lib/python/zope/app/server
+END
+configure.zcml.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/m2crypto/!svn/ver/351/trunk/demo/ZopeX3/install_dir/lib/python/zope/app/server/configure.zcml.patch
+END
+https.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/m2crypto/!svn/ver/351/trunk/demo/ZopeX3/install_dir/lib/python/zope/app/server/https.py
+END

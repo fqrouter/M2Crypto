@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/m2crypto/!svn/ver/723/trunk/SWIG
+END
+_bn.i
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/m2crypto/!svn/ver/363/trunk/SWIG/_bn.i
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/299/trunk/SWIG/Makefile.osx
+END
+_ssl.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/721/trunk/SWIG/_ssl.i
+END
+_asn1.i
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/696/trunk/SWIG/_asn1.i
+END
+_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/593/trunk/SWIG/_lib.h
+END
+_engine.i
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/m2crypto/!svn/ver/720/trunk/SWIG/_engine.i
+END
+_x509.i
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/721/trunk/SWIG/_x509.i
+END
+_lib.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/695/trunk/SWIG/_lib.i
+END
+_dsa.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/723/trunk/SWIG/_dsa.i
+END
+_aes.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/721/trunk/SWIG/_aes.i
+END
+_bio.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/695/trunk/SWIG/_bio.i
+END
+Makefile.mw
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/299/trunk/SWIG/Makefile.mw
+END
+_util.i
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/721/trunk/SWIG/_util.i
+END
+_m2crypto.i
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/721/trunk/SWIG/_m2crypto.i
+END
+_rand.i
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/721/trunk/SWIG/_rand.i
+END
+_m2crypto.def
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/175/trunk/SWIG/_m2crypto.def
+END
+_rsa.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/723/trunk/SWIG/_rsa.i
+END
+_ec.i
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/m2crypto/!svn/ver/723/trunk/SWIG/_ec.i
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/m2crypto/!svn/ver/299/trunk/SWIG/Makefile
+END
+_pkcs7.i
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/m2crypto/!svn/ver/723/trunk/SWIG/_pkcs7.i
+END
+_rc4.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/522/trunk/SWIG/_rc4.i
+END
+_objects.i
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/m2crypto/!svn/ver/686/trunk/SWIG/_objects.i
+END
+_evp.i
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/723/trunk/SWIG/_evp.i
+END
+_threads.i
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/m2crypto/!svn/ver/690/trunk/SWIG/_threads.i
+END
+_dh.i
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/m2crypto/!svn/ver/695/trunk/SWIG/_dh.i
+END

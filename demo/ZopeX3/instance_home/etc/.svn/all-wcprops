@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/537/trunk/demo/ZopeX3/instance_home/etc
+END
+zope.conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/m2crypto/!svn/ver/351/trunk/demo/ZopeX3/instance_home/etc/zope.conf.patch
+END

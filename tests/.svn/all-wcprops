@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/m2crypto/!svn/ver/721/trunk/tests
+END
+alltests.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/721/trunk/tests/alltests.py
+END
+test_bio_iobuf.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/504/trunk/tests/test_bio_iobuf.py
+END
+x509.pem
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/m2crypto/!svn/ver/698/trunk/tests/x509.pem
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/698/trunk/tests/server.pem
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/487/trunk/tests/__init__.py
+END
+ec.priv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/368/trunk/tests/ec.priv.pem
+END
+test_ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/721/trunk/tests/test_ssl.py
+END
+test_asn1.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/678/trunk/tests/test_asn1.py
+END
+fips.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/m2crypto/!svn/ver/693/trunk/tests/fips.py
+END
+test_ecdh.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/504/trunk/tests/test_ecdh.py
+END
+rsa.pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/692/trunk/tests/rsa.pub.pem
+END
+test_bio_membuf.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/504/trunk/tests/test_bio_membuf.py
+END
+long_serial_cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/m2crypto/!svn/ver/694/trunk/tests/long_serial_cert.pem
+END
+test_engine.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/675/trunk/tests/test_engine.py
+END
+der_encoded_seq.b64
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/360/trunk/tests/der_encoded_seq.b64
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/698/trunk/tests/README
+END
+test_bio_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/504/trunk/tests/test_bio_file.py
+END
+test_smime.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/721/trunk/tests/test_smime.py
+END
+ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/m2crypto/!svn/ver/698/trunk/tests/ca.pem
+END
+test_ec_curves.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/549/trunk/tests/test_ec_curves.py
+END
+test_ssl_win.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/630/trunk/tests/test_ssl_win.py
+END
+test_ecdsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/548/trunk/tests/test_ecdsa.py
+END
+rsa.priv2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/692/trunk/tests/rsa.priv2.pem
+END
+dsa.priv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/692/trunk/tests/dsa.priv.pem
+END
+signer.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/698/trunk/tests/signer.pem
+END
+recipient_key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/698/trunk/tests/recipient_key.pem
+END
+test_rand.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/491/trunk/tests/test_rand.py
+END
+test_pgp.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/630/trunk/tests/test_pgp.py
+END
+thawte.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/694/trunk/tests/thawte.pem
+END
+test_rc4.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/672/trunk/tests/test_rc4.py
+END
+dhparams.pem
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/692/trunk/tests/dhparams.pem
+END
+test_dh.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/692/trunk/tests/test_dh.py
+END
+rsa.priv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/692/trunk/tests/rsa.priv.pem
+END
+test_bn.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/504/trunk/tests/test_bn.py
+END
+dsa.param.pem
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/692/trunk/tests/dsa.param.pem
+END
+test_ssl_offline.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/721/trunk/tests/test_ssl_offline.py
+END
+test_x509.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/698/trunk/tests/test_x509.py
+END
+pubring.pgp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/630/trunk/tests/pubring.pgp
+END
+test_threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/553/trunk/tests/test_threading.py
+END
+ec.pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/m2crypto/!svn/ver/368/trunk/tests/ec.pub.pem
+END
+test_dsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/692/trunk/tests/test_dsa.py
+END
+test_bio.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/692/trunk/tests/test_bio.py
+END
+test_obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/615/trunk/tests/test_obj.py
+END
+recipient.pem
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/698/trunk/tests/recipient.pem
+END
+test_rsa.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/715/trunk/tests/test_rsa.py
+END
+dsa.pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/692/trunk/tests/dsa.pub.pem
+END
+x509.der
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/m2crypto/!svn/ver/698/trunk/tests/x509.der
+END
+signer_key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/698/trunk/tests/signer_key.pem
+END
+test_bio_ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/543/trunk/tests/test_bio_ssl.py
+END
+test_evp.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/692/trunk/tests/test_evp.py
+END
+test_authcookie.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/504/trunk/tests/test_authcookie.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/m2crypto/!svn/ver/537/trunk/demo/Zope/ZServer
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/194/trunk/demo/Zope/ZServer/__init__.py
+END
+HTTPS_Server.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/m2crypto/!svn/ver/209/trunk/demo/Zope/ZServer/HTTPS_Server.py
+END

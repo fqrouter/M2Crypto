@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/m2crypto/!svn/ver/537/trunk/demo/Zope/lib/python/Products/GuardedFile
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/m2crypto/!svn/ver/383/trunk/demo/Zope/lib/python/Products/GuardedFile/__init__.py
+END
+add.dtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/m2crypto/!svn/ver/168/trunk/demo/Zope/lib/python/Products/GuardedFile/add.dtml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/m2crypto/!svn/ver/299/trunk/demo/Zope/lib/python/Products/GuardedFile/README.txt
+END
+refresh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/m2crypto/!svn/ver/170/trunk/demo/Zope/lib/python/Products/GuardedFile/refresh.txt
+END
+GuardedFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/m2crypto/!svn/ver/383/trunk/demo/Zope/lib/python/Products/GuardedFile/GuardedFile.py
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/m2crypto/!svn/ver/144/trunk/demo/Zope/lib/python/Products/GuardedFile/TODO.txt
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/m2crypto/!svn/ver/167/trunk/demo/Zope/lib/python/Products/GuardedFile/version.txt
+END

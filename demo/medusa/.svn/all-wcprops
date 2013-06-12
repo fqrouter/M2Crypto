@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/m2crypto/!svn/ver/537/trunk/demo/medusa
+END
+http_date.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/145/trunk/demo/medusa/http_date.py
+END
+ca.pem
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/178/trunk/demo/medusa/ca.pem
+END
+filesys.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/299/trunk/demo/medusa/filesys.py
+END
+ftp_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/383/trunk/demo/medusa/ftp_server.py
+END
+counter.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/145/trunk/demo/medusa/counter.py
+END
+logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/145/trunk/demo/medusa/logger.py
+END
+status_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/299/trunk/demo/medusa/status_handler.py
+END
+default_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/m2crypto/!svn/ver/383/trunk/demo/medusa/default_handler.py
+END
+START_xmlrpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/145/trunk/demo/medusa/START_xmlrpc.py
+END
+asyncore.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/299/trunk/demo/medusa/asyncore.py
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/145/trunk/demo/medusa/index.html
+END
+virtual_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/m2crypto/!svn/ver/145/trunk/demo/medusa/virtual_handler.py
+END
+https_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/383/trunk/demo/medusa/https_server.py
+END
+dh1024.pem
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/145/trunk/demo/medusa/dh1024.pem
+END
+m_syslog.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/145/trunk/demo/medusa/m_syslog.py
+END
+redirecting_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/m2crypto/!svn/ver/383/trunk/demo/medusa/redirecting_handler.py
+END
+START.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/174/trunk/demo/medusa/START.py
+END
+auth_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/383/trunk/demo/medusa/auth_handler.py
+END
+mime_type_table.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/m2crypto/!svn/ver/145/trunk/demo/medusa/mime_type_table.py
+END
+server.pem
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/m2crypto/!svn/ver/174/trunk/demo/medusa/server.pem
+END
+ftps_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/m2crypto/!svn/ver/383/trunk/demo/medusa/ftps_server.py
+END
+xmlrpc_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/299/trunk/demo/medusa/xmlrpc_handler.py
+END
+medusa_gif.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/145/trunk/demo/medusa/medusa_gif.py
+END
+poison_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/m2crypto/!svn/ver/145/trunk/demo/medusa/poison_handler.py
+END
+http_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/m2crypto/!svn/ver/383/trunk/demo/medusa/http_server.py
+END
+00_README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/145/trunk/demo/medusa/00_README
+END
+put_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/m2crypto/!svn/ver/383/trunk/demo/medusa/put_handler.py
+END
+producers.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/383/trunk/demo/medusa/producers.py
+END
+asynchat.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/m2crypto/!svn/ver/299/trunk/demo/medusa/asynchat.py
+END

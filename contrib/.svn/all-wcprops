@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/m2crypto/!svn/ver/537/trunk/contrib
+END
+SimpleX509create.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/m2crypto/!svn/ver/279/trunk/contrib/SimpleX509create.py
+END
+smimeplus.README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/m2crypto/!svn/ver/197/trunk/contrib/smimeplus.README
+END
+dave.README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/m2crypto/!svn/ver/156/trunk/contrib/dave.README
+END
+isaac.README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/158/trunk/contrib/isaac.README
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/m2crypto/!svn/ver/346/trunk/contrib/README
+END
+dave.patch
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/m2crypto/!svn/ver/156/trunk/contrib/dave.patch
+END
+dispatcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/142/trunk/contrib/dispatcher.py
+END
+SimpleX509create.README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/m2crypto/!svn/ver/207/trunk/contrib/SimpleX509create.README
+END
+isaac.httpslib.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/383/trunk/contrib/isaac.httpslib.py
+END
+dispatcher.README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/m2crypto/!svn/ver/142/trunk/contrib/dispatcher.README
+END
+smimeplus.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/m2crypto/!svn/ver/197/trunk/contrib/smimeplus.py
+END
+m2crypto.spec
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/m2crypto/!svn/ver/142/trunk/contrib/m2crypto.spec
+END
